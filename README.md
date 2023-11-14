@@ -29,4 +29,4 @@
 </table>
 
 ## Apunts de processos
-[APUNTS](https://github.com/rramonb-esliceu/rramonb-esliceu/tree/main/sistemes/processos)
+[APUNTS](https://github.com/rramonb-esliceu/rramonb-esliceu/tree/master/sistemes/processos)
