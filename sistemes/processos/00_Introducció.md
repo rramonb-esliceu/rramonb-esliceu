@@ -29,7 +29,7 @@ Amb diversos processos en execució, el sistema operatiu ha de prendre decisions
 - **Registres de la UCP:** Contenen els valors dels registres de la unitat central de processament necessaris per a l'execució del procés.
 - **Estadístiques:** Recopilen informació sobre l'ús del procés (temps d'execució, temps d'espera, etc.).
 - **Informació de Planificació:** Conté dades rellevants per a la planificació del procés.
-En resum, la gestió de processos en un sistema operatiu és essencial per a garantir un funcionament eficient i equitatiu. Aquesta àmplia gamma d'operacions i funcions contribueix al bon rendiment i a la coordinació efectiva dels processos en l'entorn operatiu.
+En resum, la gestió de processos en un sistema operatiu és essencial per a garantir un funcionament eficient i equitatiu. Aquesta àmplia gamma d'operacions i funcions contribueix al bon rendiment i a la coordinació efectiva dels processos en  l'entorn operatiu.
 # INDEX
 1. [Definició de procés](https://github.com/rramonb-esliceu/rramonb-esliceu/blob/main/sistemes/processos/01_Definicio_de_proces.md)
 2. [Tasques fonamentals dels Sistemes Operatius](https://github.com/rramonb-esliceu/rramonb-esliceu/blob/main/sistemes/processos/02_Tasques_Fonamentals_dels_Sistemes_Operatius.md)
