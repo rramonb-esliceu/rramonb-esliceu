@@ -1,7 +1,7 @@
 !["SO"](sistemes.png)
 # Gestió de Processos en Sistemes Operatius
-- [Torna a l'inici](https://github.com/rramonb-esliceu/rramonb-esliceu/tree/main)
-- [Torna a sistemes](https://github.com/rramonb-esliceu/rramonb-esliceu/tree/main/sistemes)
+- [Torna a l'inici](https://github.com/rramonb-esliceu/rramonb-esliceu/tree/master)
+- [Torna a sistemes](https://github.com/rramonb-esliceu/rramonb-esliceu/tree/master/sistemes)
 ## Introducció
 La gestió de processos constitueix l'espina dorsal dels sistemes operatius, proporcionant un marc fonamental per a la supervisió i control eficient de les diverses tasques que s'executen en un sistema. Aquesta disciplina abasta una àmplia gamma d'operacions i funcionalitats que permeten al sistema operatiu organitzar i optimitzar l'execució dels processos.
 ### Definició de Procés
