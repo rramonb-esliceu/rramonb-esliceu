@@ -29,13 +29,13 @@ Amb diversos processos en execució, el sistema operatiu ha de prendre decisions
 - **Registres de la UCP:** Contenen els valors dels registres de la unitat central de processament necessaris per a l'execució del procés.
 - **Estadístiques:** Recopilen informació sobre l'ús del procés (temps d'execució, temps d'espera, etc.).
 - **Informació de Planificació:** Conté dades rellevants per a la planificació del procés.
-En resum, la gestió de processos en un sistema operatiu és essencial per a garantir un funcionament eficient i equitatiu. Aquesta àmplia gamma d'operacions i funcions contribueix al bon rendiment i a la coordinació efectiva dels processos en  l'entorn operatiu.
+En resum, la gestió de processos en un sistema operatiu és essencial per a garantir un funcionament eficient i equitatiu. Aquesta àmplia gamma d'operacions i funcions contribueix al bon rendiment i a la coordinació efectiva dels processos en l'entorn operatiu.
 # INDEX
-1. [Definició de procés](https://github.com/rramonb-esliceu/rramonb-esliceu/blob/main/sistemes/processos/01_Definicio_de_proces.md)
-2. [Tasques fonamentals dels Sistemes Operatius](https://github.com/rramonb-esliceu/rramonb-esliceu/blob/main/sistemes/processos/02_Tasques_Fonamentals_dels_Sistemes_Operatius.md)
-3. [Estats d'un procés](https://github.com/rramonb-esliceu/rramonb-esliceu/blob/main/sistemes/processos/03_Estats_d_un_Proces.md)
-4. [Operacions amb processos](https://github.com/rramonb-esliceu/rramonb-esliceu/blob/main/sistemes/processos/04_Operacions_amb_Processos.md)
-5. [Execució de processos](https://github.com/rramonb-esliceu/rramonb-esliceu/blob/main/sistemes/processos/05_Execucio_de_Processos.md)
-6. [Planificaió de processos](https://github.com/rramonb-esliceu/rramonb-esliceu/blob/main/sistemes/processos/06_Planificacio_de_processos.md)
-7. [Informació necessaria per a la Gestió del procés](https://github.com/rramonb-esliceu/rramonb-esliceu/blob/main/sistemes/processos/07_Informacio_Necessaria_per_a_la_Gestio_del_Proces.md)
-8. [Conclusió](https://github.com/rramonb-esliceu/rramonb-esliceu/blob/main/sistemes/processos/08_Conclusio.md)
+1. [Definició de procés](https://github.com/rramonb-esliceu/rramonb-esliceu/blob/master/sistemes/processos/01_Definicio_de_proces.md)
+2. [Tasques fonamentals dels Sistemes Operatius](https://github.com/rramonb-esliceu/rramonb-esliceu/blob/master/sistemes/processos/02_Tasques_Fonamentals_dels_Sistemes_Operatius.md)
+3. [Estats d'un procés](https://github.com/rramonb-esliceu/rramonb-esliceu/blob/master/sistemes/processos/03_Estats_d_un_Proces.md)
+4. [Operacions amb processos](https://github.com/rramonb-esliceu/rramonb-esliceu/blob/master/sistemes/processos/04_Operacions_amb_Processos.md)
+5. [Execució de processos](https://github.com/rramonb-esliceu/rramonb-esliceu/blob/master/sistemes/processos/05_Execucio_de_Processos.md)
+6. [Planificaió de processos](https://github.com/rramonb-esliceu/rramonb-esliceu/blob/master/sistemes/processos/06_Planificacio_de_processos.md)
+7. [Informació necessaria per a la Gestió del procés](https://github.com/rramonb-esliceu/rramonb-esliceu/blob/master/sistemes/processos/07_Informacio_Necessaria_per_a_la_Gestio_del_Proces.md)
+8. [Conclusió](https://github.com/rramonb-esliceu/rramonb-esliceu/blob/master/sistemes/processos/08_Conclusio.md)
